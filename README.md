@@ -1,2 +1,2 @@
 # patch
-Scripts to create a patch
+Scripts to create patches
