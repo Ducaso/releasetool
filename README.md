@@ -1,2 +1,2 @@
 # releasetool
-Scripts to create releases & patches
+Windows batch scripts to create releases & patches
